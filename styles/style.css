@@ -1,0 +1,16 @@
+@font-face{
+	font-family: moderne sans;
+	src: url('fonts/moderne sans/MODERNE SANS.ttf');
+}
+@font-face{
+	font-family: biko;
+	src: url('fonts/biko/Biko_Regular.otf');
+}
+@font-face{
+	font-family: building typeface;
+	src: url('fonts/Building Typeface /Building Typeface by Leonardo Gubbioni/Building_Typeface.ttf');
+}
+.name{
+	font-size: 20vh;
+	font-family: biko;
+}
