@@ -1,0 +1,23 @@
+{
+  "name": "facuo",
+  "version": "1.0.0",
+  "description": "la idea es que la pagina funcione no solo como un blog de intereses tecnologicos mios sino tambien poder armar como una especie de curriculum online. Tambien tendria una parte donde yo podria subir o mostrar distintos proyectos personales que tenga distintas plataformas que a la vez me sirvan para aprender. Podria implementar el sitio en angular, angular 2 y react a ver que onda",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facuO/facuO.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facuO/facuO.github.io/issues"
+  },
+  "homepage": "https://github.com/facuO/facuO.github.io#readme"
+}
