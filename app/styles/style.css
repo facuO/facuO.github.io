@@ -14,15 +14,67 @@
 	font-family: keep calm;
 	src: url('fonts/keep_calm/KeepCalm-Medium.ttf');
 }
+html,body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+p{
+	text-align: center;
+	width: 50vw;
+}
+section{
+
+}
+.header{
+	background-color: #EC0F0F;
+	width: 100vw;
+	height: 10vh;
+}
+.hide{
+	display: none;
+}
+.h-center{
+	margin-left: 10vw;
+}
+.home{
+	width: 100vw;
+}
 .name{
-	padding-top: 10vh;
-	font-size: 20vh;
+	font-size: 10vh;
 	font-family: building typeface;
 }
-.round_button{
+.punchline{
+	margin-top: 3vh;
+	font-size: 4vh;
+	font-family: biko;
+}
+.fa{
+	font-size: 5vh;
+}
+.menu{
+	position: absolute;
+	text-align: center;
+	margin-left: 93vw;
+	margin-top: 25vh;
+}
+.button{
+	font-size: 10vh;
+	font-family: building typeface;
 	cursor: pointer;
-	width: 10vh;
-	height: 10vh;
-	border-radius: 50%;
-
+}
+.round_button>i{
+	padding-top: 2.5vh;
+}
+.home_button{
+	background-color: #20A0E2;
+}
+.code_button{
+	background-color: #F2801A;
+}
+.blog_button{
+	background-color: #44F21A;
+}
+.contact_button{
+	background-color: #9B315B;
 }
