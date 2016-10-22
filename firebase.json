@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "ompre",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
